@@ -18,7 +18,7 @@ Shadows and Silhouettes
 * Total no judges : 6
 * Expert or outsider judges : 2
 * Number of judges submitted scores : 3
-* All scores are normalized
+* All scores are normalized (see [scoring system](https://github.com/photography-ncbs/competition/blob/master/scoring.md))
 
 | Entry Title | Judge1 | Judge2 | Judge3(x2)<sup>\#</sup> | Total| 
 | --- | --- |--- |--- |--- |
