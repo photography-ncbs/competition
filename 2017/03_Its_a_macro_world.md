@@ -18,7 +18,7 @@ It's a macro world
 * Total no judges : 4
 * Expert or outsider judges : 1
 * Number of judges submitted scores : 2
-* All scores are normalized
+* All scores are normalized (see [scoring system](https://github.com/photography-ncbs/competition/blob/master/scoring.md))
 
 | Entry Title | Judge1 | Judge2 | Total| 
 | --- | --- |--- |---  |
