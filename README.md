@@ -2,7 +2,7 @@
 This public repository will serve as an ``open database`` for ‘**Photography Competition**’ details and statistics. Purpose of this repository to have little transparency about photography competition, it’s rules and statistics. This will also track evolution of this little activity on the campus. Currently this will hold following details about photography competition.
 
 * [Rules and Regulations ](Rules.md)
-* [Statistics about competitions](https://github.com/photography-ncbs/competition/tree/master/2017) (*Latest Competition* : [Contrast](https://github.com/photography-ncbs/competition/blob/master/2017/04_Contrast.md) )
+* [Statistics about competitions](https://github.com/photography-ncbs/competition/tree/master/2017) (*Latest Competition* : [Patterns in Nature](https://github.com/photography-ncbs/competition/blob/master/2017/05_Patterns_in_Nature.md) )
 * [Process of entire competition](process.md)
 * [Scoring system](scoring.md)
 
