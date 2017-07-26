@@ -1,5 +1,6 @@
 # List of competitions
 
+* [Illusions ](/2017/06_Illusions.md)(July - Aug 2017)
 * [Patterns in Nature](/2017/05_Patterns_in_Nature.md) (June - July 2017)
 * [Contrast](/2017/04_Contrast.md) (May - June 2017)
 * [It's a macro world](/2017/03_Its_a_macro_world.md) (April - May 2017)
