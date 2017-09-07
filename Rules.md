@@ -1,12 +1,12 @@
 # Rules and Regulations
 ## Competition format
-The competition is divided into two sections (`people's choice` and `judges’ choices`) and all the participants will be automatically eligible for both of these. The theme for each month’s competition will be notified over email. The competition will be active for 20 days, during which the participants can submit a maximum of 3 photos to the ongoing theme.
+The competition is divided into two sections (`popular choice` and `judges’ choice`) and all the participants will be automatically eligible for both of these. The theme for each month’s competition will be notified over email. The participants can submit a maximum of 3 photos to the ongoing theme.
 ### People’s choice
-All the photos will be up for voting by the campus community. At the end of the competition, the two most voted images will be declared as winner and runner-up. In case of a tie, the entries with the highest number of votes, will be considered as winners.
+All the photos will be up for voting by the campus community. At the end of the competition, the two (or more, see below) most voted images will be declared as winner and runner-up. In case of a tie, the entries with the highest number of votes, will be considered as winners. 
 ### Judges’ choice
-At the end of each round (theme) of the competition, our judges will assign points to each of the entries, and the one(s) with the most number of points will be declared as winners.
+At the end of each round (theme) of the competition, our judges will assign points to each of the entries, and the one(s) with the most number of points will be declared as winners. 
 
-*Winners’ photo(s) will be framed and displayed on the corridor next to reception for that entire month, following which, winner may take printed photo (if any) as a souvenir. Winning entries will be projected on the electronic display boards across campus.*
+*Winning entries will be projected on the electronic display boards across campus.*
 
 Competition will be carried out in following three phases
 * `Submission phase` Participants can upload their photos for ongoing theme which will be eligible for both the categories (People’s choice as well as Judges’ choice)
@@ -15,10 +15,10 @@ Competition will be carried out in following three phases
 
 ## Judges
 
-On a trial basis, we are introducing a new rule for the selection of judges. The panel of judges will comprise of two experts, as well as the winners from the previous month. Hence, the latter will be unable to participate in the ongoing competition, but will be able to rejoin from the following month. This is in all fairness to boost the confidence of new photographers.
+On a trial basis, we are introducing a new rule for the selection of judges. The panel of judges will comprise of two experts, as well as the winners from the previous month. Hence, the latter will be unable to participate in the ongoing competition, but will be able to rejoin from the following month. This is in all fairness to boost the confidence of new photographers. 
 
 ## Eligibility
-Anyone with a valid NCBS/InStem/CCAMP email account can participate in the competition.
+Anyone with a valid NCBS/InStem/CCAMP email account can participate in the competition. (See below note about guests and special uploads)
 
 ## How to participate
  1. One must be on the NCBS network to upload photos.
@@ -51,4 +51,23 @@ Anyone with a valid NCBS/InStem/CCAMP email account can participate in the compe
  * Rules and regulations might be changed or modified without any notice. 
 
 
-*Note: This is second revision of rules updated on 9 March 2017.*
+## Special cases and related policies 
+### Cancellation of competition
+Organisers might cancel ongoing competition if there are less than 10 entries in the competition. In such cases organisers will declare cancelation of current competition and will start new theme. Organisers might also cancel on going competition without any notice if there is any technical or administrative problem.  
+### Number of winners
+Total number of winners will be decided based on number of entries in the contest. There will be 1 winner per 15 entries or 2 (whichever is maximum). However, if there is a tie amongst the winners, number of winners might increase/decrease accordingly.
+### Guest uploads 
+We constantly get requests regarding participation in contest by the users who do not have valid institute email address. Currently entire competition is linked to intranet and all uploads, votes are linked to specific email account. Hence (for now) it is not possible to incorporate guest uploads. We will update our rules and regulations once we have some mechanism in place to tackle this problem. We cannot allow upload through friend/colleagues account because it will create some unnecessary loop holes into photo uploading policies. Also, it will be logistically difficult to organize. 
+### Number of judges
+We try our best to get expert judges and encourage previous competition winners to judge contest photos. However, that is subject to availability of judges. Sometimes we may not get enough judges to have Judges’ choice section. In such cases, organisers may try to contact other experts or experienced photographers to judge. At the end, if we have less than 2 judges, we might have to cancel the ‘Judges’ choice’ section of the competition. Organisers will take final decision regarding this. 
+### Multiple photo uploads
+As per our rules and regulations, maximum of 3 photos are allowed per theme. It is participant’s responsibility to check how much photos they are uploading. As photographers’ names are hidden in voting and uploading phase, it is not possible for organisers to detect and notify users who have uploaded more than 3 photos. If any photographer has uploaded more than 3 photos to current competition, only first 3 photos (based on uploading timestamps) will be considered for the competition. Rest of the photos may be removed from the website. 
+### Judges’ scores
+Judges’ score which have received after provided deadline will not be considered for the final calculation of ‘Judges’ choice’ score. Judges can contact organisers if they are unable to send scores before deadline. Organisers will always send one reminder before the deadline.  
+### Runner up photos
+To promote more photographers, we have started displaying runner up photos on the electronic display across campus. Number of runner up photos selected to display on the electronic display will be decided by the organisers. We will generally show 6 photos per sections. However, if there are multiple photos with same score, we might adjust this number. 
+
+
+*This is 3rd revision of the rules and regulation implemented from 4 September 2017*
+
+*Previous revisions  - 9 March 2017, 19 Jan 2017.*
