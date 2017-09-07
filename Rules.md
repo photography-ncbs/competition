@@ -1,6 +1,6 @@
 # Rules and Regulations
 ## Competition format
-The competition is divided into two sections (`popular choice` and `judges’ choice`) and all the participants will be automatically eligible for both of these. The theme for each month’s competition will be notified over email. The participants can submit a maximum of 3 photos to the ongoing theme.
+The competition is divided into two sections (`People’s choice` and `Judges’ choice`) and all the participants will be automatically eligible for both of these. The theme for each month’s competition will be notified over email. The participants can submit a maximum of 3 photos to the ongoing theme.
 ### People’s choice
 All the photos will be up for voting by the campus community. At the end of the competition, the two (or more, see below) most voted images will be declared as winner and runner-up. In case of a tie, the entries with the highest number of votes, will be considered as winners. 
 ### Judges’ choice
