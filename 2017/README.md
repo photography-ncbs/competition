@@ -1,5 +1,6 @@
 # List of competitions
 
+* [Landscapes] (/2017/08_Landscapes.md) (Sep-Oct 2017)
 * [Black and White](/2017/07_Black_and_White.md) (Aug-Sep 2017)
 * [Illusions ](/2017/06_Illusions.md) (July - Aug 2017)
 * [Patterns in Nature](/2017/05_Patterns_in_Nature.md) (June - July 2017)
