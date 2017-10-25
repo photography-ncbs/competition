@@ -13,7 +13,7 @@ Science beyond labs
 
 ## Top 10 Shortlisted entries for Judges' choice
 
-* Total no judges contacted : 4
+* Total no judges contacted : 5
 * Expert or outsider judges :0
 * Number of judges submitted scores : 4
 * All scores are normalized (see [scoring system](https://github.com/photography-ncbs/competition/blob/master/scoring.md))
