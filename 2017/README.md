@@ -1,5 +1,6 @@
 # List of competitions
 
+* [Food across the world](/2017/10_Food_across_the_world.md) (Nov-Dec 2017)
 * [Science beyond labs](/2017/09_Science_beyond_labs.md) (Oct-Nov 2017)
 * [Landscapes](/2017/08_Landscapes.md) (Sep-Oct 2017)
 * [Black and White](/2017/07_Black_and_White.md) (Aug-Sep 2017)
