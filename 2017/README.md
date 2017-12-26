@@ -1,5 +1,6 @@
 # List of competitions
 
+* [Science and life at NCBS Campus](/2017/11_Science_and_life_at_NCBS_Campus.md) (Dec 2017)
 * [Food across the world](/2017/10_Food_across_the_world.md) (Nov-Dec 2017)
 * [Science beyond labs](/2017/09_Science_beyond_labs.md) (Oct-Nov 2017)
 * [Landscapes](/2017/08_Landscapes.md) (Sep-Oct 2017)
