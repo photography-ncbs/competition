@@ -2,7 +2,7 @@
 This public repository will serve as an ``open database`` for ‘**Photography Competition**’ details and statistics. Purpose of this repository to have little transparency about photography competition, it’s rules and statistics. This will also track evolution of this little activity on the campus. Currently this will hold following details about photography competition.
 
 * [Rules and Regulations ](Rules.md)
-* [Statistics about competitions](https://github.com/photography-ncbs/competition/tree/master/2017) ( *Latest Competition* : [Food across the world](https://github.com/photography-ncbs/competition/blob/master/2017/10_Food_across_the_world.md) )
+* [Statistics about competitions](https://github.com/photography-ncbs/competition/tree/master/2017) ( *Latest Competition* : [Science and life at NCBS Campus](https://github.com/photography-ncbs/competition/blob/master/2017/11_Science_and_life_at_NCBS_Campus.md) )
 * [Process of entire competition](process.md)
 * [Scoring system](scoring.md)
 
