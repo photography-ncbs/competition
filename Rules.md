@@ -6,7 +6,7 @@ All the photos will be up for voting by the campus community. At the end of the 
 ### Judges’ choice
 At the end of each round (theme) of the competition, our judges will assign points to each of the entries, and the one(s) with the most number of points will be declared as winners. 
 
-*Winning entries will be projected on the electronic display boards across campus.*
+*Winning entries will be projected on the electronic display boards across campus. If we get further support from NCBS, we will frame winning entries and display them in some common area inside campus. We might also upload winning entries to official social media channels like Facebook and Twitter (along with proper credits). However, such consent will be taken from the photographer before we upload them to social media.*
 
 Competition will be carried out in following three phases
 * `Submission phase` Participants can upload their photos for ongoing theme which will be eligible for both the categories (People’s choice as well as Judges’ choice)
@@ -15,7 +15,7 @@ Competition will be carried out in following three phases
 
 ## Judges
 
-On a trial basis, we are introducing a new rule for the selection of judges. The panel of judges will comprise of two experts, as well as the winners from the previous month. Hence, the latter will be unable to participate in the ongoing competition, but will be able to rejoin from the following month. This is in all fairness to boost the confidence of new photographers. 
+The panel of judges will comprise of experts (if available), as well as the winners from the previous month. Hence, the latter will be unable to participate in the ongoing competition, but will be able to rejoin from the following month. This is in all fairness to boost the confidence of new photographers. 
 
 ## Eligibility
 Anyone with a valid NCBS/InStem/CCAMP email account can participate in the competition. (See below note about guests and special uploads)
@@ -46,8 +46,10 @@ Anyone with a valid NCBS/InStem/CCAMP email account can participate in the compe
  * Due to policies of the NCBS IT section, a participant cannot delete any photo that is already uploaded. However, they can edit or change it. If you want to delete a photo, please email the IT section (ithelp@ncbs.res.in) regarding the same.
  * Keep a copy of the original photo with you. Organisers are not responsible for any loss of photos due to any technical reason.
  * Organisers will not take the responsibility for any delay or suspension of the photo competition. We will try our best to run this competition smoothly.
+ * Uploaded photo can be used to publicize photography competition or photography club ‘within campus’. If photographer do not want to use his/her photo for such purpose, please email us (photography@ncbs.res.in) and we will remove photo from such listings.  
  * Organisers hold the right to stop or suspend the competition at any time.
  * Organisers are not responsible for the quality of photo printed or any related delay.
+ * We take great care of keeping photographer’s copyright intact. However, organisers are not responsible for any unauthorized use of photo. Competition is accessible to all NCBS/InStem/CCAMP users and there is no way to restrict download/screenshot of competition photos.
  * Rules and regulations might be changed or modified without any notice. 
 
 
@@ -66,8 +68,9 @@ As per our rules and regulations, maximum of 3 photos are allowed per theme. It 
 Judges’ score which have received after provided deadline will not be considered for the final calculation of ‘Judges’ choice’ score. Judges can contact organisers if they are unable to send scores before deadline. Organisers will always send one reminder before the deadline.  
 ### Runner up photos
 To promote more photographers, we have started displaying runner up photos on the electronic display across campus. Number of runner up photos selected to display on the electronic display will be decided by the organisers. We will generally show 6 photos per sections. However, if there are multiple photos with same score, we might adjust this number. 
+### Access to competition photographs
+Sometimes we get request for accessing specific photographs for numerous reasons (like to use on personal website, use to create flyer etc.) We do NOT own copyright of any of the photo uploaded for the photography competition. Photographer will be sole copyright owner. Only thing we can provide is photographer’s email and name. You should contact him/her on your own regarding access to his/her photo. Organizing team will not be responsible for any such communication between photographers and others. 
 
+*This is 4th revision of the rules and regulation implemented from 10 January 2018. *
 
-*This is 3rd revision of the rules and regulation implemented from 4 September 2017*
-
-*Previous revisions  - 9 March 2017, 19 Jan 2017.*
+*Previous revisions - 9 March 2017, 19 Jan 2017, 4 Sep 2017.*
