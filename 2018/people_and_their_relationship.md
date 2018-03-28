@@ -11,7 +11,7 @@ People and their relationship
 * Judge's choice winners : 1
 * People's choice winner : 1
 
-## Top 13 Shortlisted entries for Judges' choice
+## Top 9 Shortlisted entries for Judges' choice
 
 * Total no judges contacted : 4
 * Expert or outsider judges :2
