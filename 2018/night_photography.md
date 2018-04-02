@@ -21,16 +21,16 @@ Night Photography
 
 | Entry Title |Judge 1 |Judge 2 |Judge 3 |Judge 4 | Total Score |
 | --- | --- | --- | --- | --- | ---|
-light is the greatest traveller	|4	|4|	5|	0|	13
-Chasing the storm  |2|	5|	5|	0|	12
-Synchronized |4 |	3 |	5 |	0|	12
-Beast of the jungle	|	1	|4|	4|	0	|9
-Flames	|5|	3|	0|	0	|8
-Lakeside Evening|	2	|2|	4|	0	|8
-Livin' the fast life, |	3 |	5|	0|	0|	8
-New York Twilight|	5	|0|	3|	0|	8
-Antering with a bang! Welcoming the Chinese new year at the Chiswick Lantern festival	|	2	| 5|	0|	0|	7
-Caption: "We are all worms. But I believe that I am a glow-worm." - Winston Churchill	|	5|	0|	2|	0|	7
+| * light is the greatest traveller	|4	|4|	5|	0|	13
+| Chasing the storm  |2|	5|	5|	0|	12
+| Synchronized |4 |	3 |	5 |	0|	12
+| Beast of the jungle	|	1	|4|	4|	0	|9
+| Flames	|5|	3|	0|	0	|8
+| Lakeside Evening|	2	|2|	4|	0	|8
+| Livin' the fast life, |	3 |	5|	0|	0|	8
+| New York Twilight|	5	|0|	3|	0|	8
+| Antering with a bang! Welcoming the Chinese new year at the Chiswick Lantern festival	|	2	| 5|	0|	0|	7
+| Caption: "We are all worms. But I believe that I am a glow-worm." - Winston Churchill	|	5|	0|	2|	0|	7
 
     * Entry invalidated because of conflict of interest 
 
