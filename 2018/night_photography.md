@@ -21,7 +21,7 @@ Night Photography
 
 | Entry Title |Judge 1 |Judge 2 |Judge 3 |Judge 4 | Total Score |
 | --- | --- | --- | --- | --- | ---|
-light is the greatest traveller	|4	|4|	5|	0|	13
+* light is the greatest traveller	|4	|4|	5|	0|	13
 Chasing the storm  |2|	5|	5|	0|	12
 Synchronized |4 |	3 |	5 |	0|	12
 Beast of the jungle	|	1	|4|	4|	0	|9
