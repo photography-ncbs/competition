@@ -1,1 +1,2 @@
-
+# About Detail Photography
+DETAIL photography shots often tell the story of the situation by focusing on a relatively small portion of it. Details shots also can be images that, through compositional techniques, draw attention to a specific detail of a subject that might otherwise have gone unnoticed." Detail Photography is how to precisely frame and/or use precise focusing of your subject to make the viewers eyes perceive only a subpart/ detail of what he/she would normally see in the entire field of view or picture- sometimes even creating abstract images.This can be focusing on details of architectural or art pieces, subparts of the body, nature/plant shots as seen through a magnified glass, and even microscopy photography and more ...
