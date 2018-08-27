@@ -5,4 +5,4 @@
 * [Night Photography](/2018/night_photography.md) (March 2018)
 * [Details](/2018/details.md) (April 2018)
 * Technology Objects(June 2018) -- Cancelled
-* [Monsoon](/2018/monsoon.md) (August 2018)   -- Upcoming
+* [Monsoon](/2018/monsoon.md) (August 2018)  
