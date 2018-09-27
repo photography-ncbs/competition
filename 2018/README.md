@@ -6,3 +6,4 @@
 * [Details](/2018/details.md) (April 2018)
 * Technology Objects(June 2018) -- Cancelled
 * [Monsoon](/2018/monsoon.md) (August 2018)  
+* [Reflections](/2018/reflections.md) (September 2018)
