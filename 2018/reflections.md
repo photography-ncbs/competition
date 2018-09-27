@@ -17,7 +17,7 @@ Reflections photography is when you shots on the reflective surfaces or sometime
 * People's choice winner : 1
 
 
-## Top 7 Shortlisted entries for Judges' choice
+## Top 10 Shortlisted entries for Judges' choice
 
 * Total no judges contacted : 4
 * Expert or outsider judges :0
@@ -54,7 +54,7 @@ see [scoring system](https://github.com/photography-ncbs/competition/blob/master
 |Wow.. Taaj |	9|	3.9|	35.1|
 |What you leave behind	|10	|3.5|	35|
 |Reflecting Colors |	8|	3.8	|30.4|
-|Reflections |	9|	3.2|	28.8|
+|* Reflections |	9|	3.2|	28.8|
    * Entry invalidated because of conflict of interest  
 
 
