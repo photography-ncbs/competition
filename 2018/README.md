@@ -7,4 +7,4 @@
 * Technology Objects(June 2018) -- Cancelled
 * [Monsoon](/2018/monsoon.md) (August 2018)  
 * [Reflections](/2018/reflections.md) (September 2018)
-* [street](/2018/street.md) (October 2018)
+* [Street](/2018/street.md) (October 2018)
