@@ -14,7 +14,6 @@ Submission phase: 1 Jan 2019 – 14 Jan 2019
 
 Voting phase: 15 Jan 2019 – 21 Jan 2019
 
-Results will be declared by the end of January.
 
 	*Number of judges contacted :4					
 	*Number of judges submitted scores :4					
