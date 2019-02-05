@@ -14,5 +14,7 @@ This time we want you to capture such beautiful creatures, rare and common; in a
 
 ## Submission phase
 5 Feb - 18 Feb 
+
 Voting phase : 19 Feb - 22 Feb
+
 Results will be declared by the end of February.Show us your love for our feathered friends!!
