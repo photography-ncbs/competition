@@ -2,7 +2,7 @@
 This public repository will serve as an ``open database`` for ‘**Photography Competition**’ details and statistics. Purpose of this repository to have little transparency about photography competition, it’s rules and statistics. This will also track evolution of this little activity on the campus. Currently this will hold following details about photography competition.
 
 * [Rules and Regulations ](Rules.md)
-* [Statistics about competitions](https://github.com/photography2018/competition/tree/master/2017) ( *Ongoing Competition* : [Sky   is my canvas](https://github.com/photography2018/competition/blob/master/2019/skyismycanvas.md)
+* [Statistics about competitions](https://github.com/photography2018/competition/tree/master/2017) ( *Ongoing Competition* : [Winged beasts and where to find them](https://github.com/photography2018/competition/blob/master/2019/winged_beasts_where_to_find_them.md)
 * [Process of entire competition](process.md)
 * [Scoring system](scoring.md)
 
