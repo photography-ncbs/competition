@@ -35,9 +35,11 @@ Anyone with a valid NCBS/InStem/CCAMP email account can participate in the compe
   * Please note that one cannot delete an already uploaded photo, even if you are the owner of the same. However, one can edit the photo, its caption and/or description, at any time. See ‘Terms and Conditions’ section for further details.
   * If a photo is selected for by the people or the judges, the participant should be able to send a high resolution unedited image of the same. Original image SHOULD include all the metadata. Images without any metadata will not be accepted for the competition.
   * General photo editing like contrast, brightness, temperature, saturation etc., as well as cropping, HDR and stitched panorama is allowed. One can also use photo filters if needed for the theme or to convey a message, however it is advised not to use them excessively.
-  * Use of watermark of any kind is acceptable, but discouraged. If you insist on using one, please use it non-destructively and subtly. Proper image credits will be given when your photo is printed and framed.
+  * Use of watermark is acceptable, but discouraged. If you insist on using one, please use it non-destructively and subtly. Proper image credits will be given when your photo is printed and framed.
+  * NAME, OR ANY ALPHA-NUMERALS OR SYMBOLS THAT REVEAL THE IDENTITY OF THE PARTICIPANT SHOULD NOT BE KEPT ON THE PHOTOGRAPH, OR AS THE FILE NAME.  
   * Do not use portraits without permission of the subject and/or model. Do not use any copyrighted or inappropriate material.
   * Do not use inappropriate caption or description.
+  ENTRIES VIOLATING THE RULES WILL NOT BE CONSIDERED FOR EVALUATION.
 
 ## Terms and conditions
 
@@ -71,6 +73,6 @@ To promote more photographers, we have started displaying runner up photos on th
 ### Access to competition photographs
 Sometimes we get request for accessing specific photographs for numerous reasons (like to use on personal website, use to create flyer etc.) We do NOT own copyright of any of the photo uploaded for the photography competition. Photographer will be sole copyright owner. Only thing we can provide is photographer’s email and name. You should contact him/her on your own regarding access to his/her photo. Organizing team will not be responsible for any such communication between photographers and others. 
 
-*This is 4th revision of the rules and regulation implemented from 10 January 2018. *
+*This is 5th revision of the rules and regulation implemented from 3 March 2019. *
 
-*Previous revisions - 9 March 2017, 19 Jan 2017, 4 Sep 2017.*
+*Previous revisions - 10 January 2018, 4 Sep 2017, 9 March 2017, 19 Jan 2017.*
