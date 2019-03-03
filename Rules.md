@@ -39,7 +39,7 @@ Anyone with a valid NCBS/InStem/CCAMP email account can participate in the compe
   * NAME, OR ANY ALPHA-NUMERALS OR SYMBOLS THAT REVEAL THE IDENTITY OF THE PARTICIPANT SHOULD NOT BE KEPT ON THE PHOTOGRAPH, OR AS THE FILE NAME.  
   * Do not use portraits without permission of the subject and/or model. Do not use any copyrighted or inappropriate material.
   * Do not use inappropriate caption or description.
-  ENTRIES VIOLATING THE RULES WILL NOT BE CONSIDERED FOR EVALUATION.
+  * ENTRIES VIOLATING THE RULES WILL NOT BE CONSIDERED FOR EVALUATION.
 
 ## Terms and conditions
 
@@ -73,6 +73,6 @@ To promote more photographers, we have started displaying runner up photos on th
 ### Access to competition photographs
 Sometimes we get request for accessing specific photographs for numerous reasons (like to use on personal website, use to create flyer etc.) We do NOT own copyright of any of the photo uploaded for the photography competition. Photographer will be sole copyright owner. Only thing we can provide is photographer’s email and name. You should contact him/her on your own regarding access to his/her photo. Organizing team will not be responsible for any such communication between photographers and others. 
 
-*This is 5th revision of the rules and regulation implemented from 3 March 2019. *
+*This is 5th revision of the rules and regulation implemented from 3 March 2019.*
 
 *Previous revisions - 10 January 2018, 4 Sep 2017, 9 March 2017, 19 Jan 2017.*
