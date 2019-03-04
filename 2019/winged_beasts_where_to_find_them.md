@@ -17,4 +17,11 @@ This time we want you to capture such beautiful creatures, rare and common; in a
 
 Voting phase : 19 Feb - 22 Feb
 
+     *Number of judges contacted :4					
+	 *Number of judges submitted scores :4					
+	 *Number of outside judges: 0					
+* All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
+
 Results will be declared by the end of February.Show us your love for our feathered friends!!
+
+
