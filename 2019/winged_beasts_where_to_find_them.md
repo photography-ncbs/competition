@@ -30,7 +30,7 @@ Results will be declared by the end of February.Show us your love for our feathe
 |Position | Entry Title |Judge 1 |Judge 2 |Judge 3| Judge 4|Judge 5| Judge 6|Total Score |
 | --- | --- | --- | ---| ---|---| ---| ---| ---|
 |1	|the king of good times|	4	|4|	3|	5	|4|	5|	25|
-|2	|iridescence	|5	|3|	—	|—	|4|	5|	|17|
+|2	|iridescence	|5	|3|	—	|—	|4|	5|	 17|
 |3	|Purple Sunbird, NCBS|	3|	—|	—|	4|	5|	4	|16|
 |4	|Coppersmith basking, GKVK Campus|	—|	—|	3|	5|	5|	3|	16|
 |5	|Mimicry is an art ...|	—|	5|	—|	—|	4|	5|	14|
