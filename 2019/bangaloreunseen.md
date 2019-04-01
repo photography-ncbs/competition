@@ -24,9 +24,9 @@ Submission phase : 8 Mar - 18 Mar
 
 Voting phase : 19 Mar - 22 Mar
 
-          *Number of judges contacted :0					
-	  *Number of judges submitted scores :0				
-	  *Number of outside judges: 0					
+          *Number of judges contacted :4					
+	  *Number of judges submitted scores :3				
+	  *Number of outside judges: 1					
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
 ## Top 4 Shortlisted entries for Judges' choice
