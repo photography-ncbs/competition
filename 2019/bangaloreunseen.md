@@ -24,9 +24,26 @@ Submission phase : 8 Mar - 18 Mar
 
 Voting phase : 19 Mar - 22 Mar
 
-    *Number of judges contacted :0					
+          *Number of judges contacted :0					
 	  *Number of judges submitted scores :0				
 	  *Number of outside judges: 0					
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
-Results will be declared by the end of March.
+## Top 4 Shortlisted entries for Judges' choice
+
+|Position|Entry Name |Judge 1|Judge 2|Judge 3|Total Score|
+| --- | --- | --- | ---| --- | ---|
+|1	|Ataraxia	|5	|5	|5	|15|
+|2|	Things you see in Bangalore|	5	|5	|3|	13|
+|3|	Bangalore Days	|5	|5|	2	|12|
+|4	|First light over reflecting waters|	3	|3|	5|	11|
+
+## Top 4 Shortlisted entries for People's choice
+
+|Position|Entry Name |Total Votes|Average Votes	|Total Score|
+| --- | --- | ---- | --- | --- |
+|1|	Ready, set, go!	|12|	3.8|	45.6|
+|2|	Day end	|10|	3.8|	38|
+|3|	Ataraxia|	10|	3.7|	37|
+|4|	Aerial chowkidars|	10|	3.2	|32|
+
