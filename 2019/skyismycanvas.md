@@ -37,7 +37,7 @@ Voting phase: 15 Jan 2019 – 21 Jan 2019
 |7.d|	The Clouds of Construction|	4|	1|	—|	—|	5|
 |7.e|	Gaze and Wonder : the Sun or the Moon?|	—|	—|	—|	5|	5|
 
-    ‘—’ stands for ‘not evaluated’
+    ‘—’ stands for ‘not shortlisted by the respective judge’
     * Entry invalidated because of conflict of interest 
 
 ## Top 10 Shortlisted entries for people's choice
