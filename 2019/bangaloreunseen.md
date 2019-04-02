@@ -46,6 +46,6 @@ Voting phase : 19 Mar - 22 Mar
 | --- | --- | ---- | --- | --- |
 |1|	Ready, set, go!	|12|	3.8|	45.6|
 |2|	Day end	|10|	3.8|	38|
-|3|	Ataraxia|	10|	3.7|	37|
+|3 ** |	Ataraxia|	10|	3.7|	37|
 |4|	Aerial chowkidars|	10|	3.2	|32|
 
