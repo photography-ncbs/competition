@@ -33,10 +33,12 @@ Voting phase : 19 Mar - 22 Mar
 
 |Position|Entry Name |Judge 1|Judge 2|Judge 3|Total Score|
 | --- | --- | --- | ---| --- | ---|
-|1	|Ataraxia	|5	|5	|5	|15|
+|1**	|Ataraxia	|5	|5	|5	|15|
 |2|	Things you see in Bangalore|	5	|5	|3|	13|
 |3|	Bangalore Days	|5	|5|	2	|12|
 |4	|First light over reflecting waters|	3	|3|	5|	11|
+
+** Entry invalidated because of conflict of interest
 
 ## Top 4 Shortlisted entries for People's choice
 
