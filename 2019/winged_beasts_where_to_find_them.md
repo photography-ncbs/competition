@@ -41,7 +41,7 @@ Results will be declared by the end of February.Show us your love for our feathe
 |10	|Mesmerizing Mynah|	—|	—|	—|	5|	3|	3|	11|
 |11	|Sucker Shot|	3|	—|	—|	—|	3|	2|	8|
 
-    ‘—’ stands for ‘not shorlisted by the respective judge’
+    ‘—’ stands for ‘not shortlisted by the respective judge’
     * Entry invalidated because of conflict of interest
 ## Top 5 Shortlisted entries for people's choice
 see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md) for more information 
