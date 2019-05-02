@@ -21,9 +21,10 @@ So get out there and document nature’s holi everywhere!!
 
 *Results will be declared by the end of April*
 
-Number of judges contacted :3
-Number of judges submitted scores :3
-Number of outside judges: 1
+    *Number of judges contacted :3
+    *Number of judges submitted scores :3
+    *Number of outside judges: 1
+* All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
 ## Top entries in Judges' choice category
 
