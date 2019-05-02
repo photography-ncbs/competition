@@ -25,6 +25,8 @@ Number of judges contacted :3
 Number of judges submitted scores :3
 Number of outside judges: 1
 
+## Top entries in Judges' choice category
+
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Total Score |
 |--|--|--|--|--|--|
 |1	| "One flower does not destroy the potential for more to bud n open"|	5	|5	|5	|15|
