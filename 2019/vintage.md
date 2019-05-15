@@ -1,7 +1,7 @@
 
 # COMPETITION NO 23
 
-## Theme -- Vintage
+## Theme : Vintage
 Do you ever feel like you were born in the wrong generation? 
 Or feel like things were better in the past or life was easier then? 
 Are you an old soul who loves to do old school things?  
