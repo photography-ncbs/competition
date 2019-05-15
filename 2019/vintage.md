@@ -13,5 +13,7 @@ After all, old is indeed gold!  [Well, many of you might search for the meaning 
 
 ## Submission phase
 Submission phase : 3rd May - 13th May
+
 Voting phase : 14th May - 18th  May
+
 Results will be announced by the end of May.
