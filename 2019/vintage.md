@@ -27,3 +27,18 @@ Results will be announced by the end of May.
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 	Top entries in Judges’ choice category					
 
+## Top entries in Judges’ choice category	
+
+|Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Judge 4	| Total Score |
+|--|--|--|--|--|--|--|					
+|1a |Steam and steel	|4	|5	|––	|5	|14
+|1b |Old is Gold	|4	|––	|5	|5	|14
+|2 |Fiat 1100/103E	|4	|5	|4	|––	|13
+|3a |A flavour of vintage cooking in modern times	|5	|––	|––	|4	|9
+|3b |Keep your heart an open shrine.	|––	|4	|––	|5	|9
+|4a |A heinous past turned picturesque by nature	|4	|––	|––	|4	|8
+|4b |Never too old to glow!	|4	|4	|––	|––	|8
+|4c |The station clock	––	|4	|––	|4	|8
+						
+						
+‘––’ stands for not shortlisted by the respective judge	
