@@ -17,3 +17,8 @@ Submission phase : 3rd May - 13th May
 Voting phase : 14th May - 18th  May
 
 Results will be announced by the end of May.
+
+*Number of judges contacted :4
+    *Number of judges submitted scores :4
+    *Number of outside judges: 0
+* All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
