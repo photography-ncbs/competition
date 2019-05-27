@@ -25,7 +25,7 @@ Results will be announced by the end of May.
 	*Number of outside judges: 0
 
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
-	Top entries in Judges’ choice category					
+						
 
 ## Top entries in Judges’ Choice Category (JCC)	
 
