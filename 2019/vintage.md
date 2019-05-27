@@ -38,7 +38,8 @@ Results will be announced by the end of May.
 |3b |Keep your heart an open shrine.	|––	|4	|––	|5	|9
 |4a |A heinous past turned picturesque by nature	|4	|––	|––	|4	|8
 |4b |Never too old to glow!	|4	|4	|––	|––	|8
-|4c |The station clock	––	|4	|––	|4	|8
+|4c |The station clock	|––	|4	|––	|4	|8
 						
 						
 ‘––’ stands for not shortlisted by the respective judge	
+	*(to be updated soon!)
