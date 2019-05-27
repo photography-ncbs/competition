@@ -26,35 +26,3 @@ Results will be announced by the end of May.
 
 * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 	Top entries in Judges’ choice category					
-						
-Position	Entry name	Judge 1	Judge 2	Judge 3	Judge 4	Total score
-1a	Steam and steel	4	5	––	5	14
-1b	Old is Gold	4	––	5	5	14
-2	Fiat 1100/103E	4	5	4	––	13
-3a	A flavour of vintage cooking in modern times	5	––	––	4	9
-3b	Keep your heart an open shrine.	––	4	––	5	9
-4a	A heinous past turned picturesque by nature	4	––	––	4	8
-4b	Never too old to glow!	4	4	––	––	8
-4c	The station clock	––	4	––	4	8
-						
-						
-	‘—’ stands for not shortlisted by the respective judge					
-						
-						
-						
-	Top entries in People’s choice category					
-						
-						
-Position	Entry name	Average votes	Total votes	Total score		
-1	A flavour of vintage cooking in modern times	4.7	15	70.5		
-2	Keep your heart an open shrine.	4.6	12	55.2		
-3	Steam and steel	4.2	13	54.6		
-4	Never to old to glow!	3.9	13	50.7		
-5	A heinous past turned picturesque by nature	4.4	10	44		
-6	Fiat 1100/103E	3.9	11	42.9		
-7	Do golden wings fly?	3.8	11	41.8		
-8	The Magnificance before the Fire	3.4	11	37.4		
-9	old Is gold 	4	9	36		
-10	I remain	3.8	9	34.2		
-11	Books With a History: Straight Out of the 18th Century 	3.1	9	27.9		
-12	Beautiful old lady at a market in Salem	3.1	8	24.8		
