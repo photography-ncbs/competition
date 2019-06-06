@@ -18,10 +18,9 @@ This time we want you to document the Rain, which brings life to the planet..
 
 URL for uploading entries: https://intranet.ncbs.res.in/photography
 
-These are your deadlines
+## Submission phase
 
 Uploading phase	:  3rd June   -  17th June
 Voting phase : 18th June  -  22nd June
 
-Results
-will be announced by the end of June
+     * Results will be announced by the end of June
