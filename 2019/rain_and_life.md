@@ -20,7 +20,7 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 
 ## Submission phase
 
-Uploading phase	:  3rd June   -  17th June
-Voting phase : 18th June  -  22nd June
+Uploading phase	:  3rd June   -  17th June extended till 23rd June
+Voting phase : 24th June  -  28nd June
 
      * Results will be announced by the end of June
