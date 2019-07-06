@@ -34,14 +34,14 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Total Score |
 |--|--|--|--|--|--|
-|1**	| "Bravheart"|	5|	5	|	-|10|
+|1**	| "Bravheart"|	5|	5	|	—|10|
 |2**	|"The strongest love is the love that can demonstrate its fragility"|4|	4	|1	|9|
-|3	|Straight out of the shower....|2	|5	|-	|7|
+|3	|Straight out of the shower....|2	|5	|—	|7|
 |4	|Thundering typhoons|	3	|2	|1	|6|
 |5.a	|When life gives you a rainy day, play in the puddles!|	1|	1|	3|	5|
-|5.b	|We are not yet done.|	-|	4|	1|	5|
-|5.c	|The dancing Ixora|	4|-	|1	|5|
-|6	|"The single raindrop never feels responsible for the flood" - Douglas Adams|	2|	2|	-|	4|
+|5.b	|We are not yet done.|	—|	4|	1|	5|
+|5.c	|The dancing Ixora|	4|—	|1	|5|
+|6	|"The single raindrop never feels responsible for the flood" - Douglas Adams|	2|	2|	—|	4|
 |7	|Droplets|	1|	1|	—|	2|
 
 ‘—’ stands for not shortlisted by the respective judge
@@ -61,4 +61,5 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 
 
 ‘—’ stands for not shortlisted by the respective judge
+
 ** entry invalidated because of conflict of interest
