@@ -45,6 +45,7 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 |7	|Droplets|	1|	1|	—|	2|
 
 ‘—’ stands for not shortlisted by the respective judge
+
 ** entry invalidated because of conflict of interest
 
 ## Top entries in People's choice category
