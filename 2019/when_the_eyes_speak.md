@@ -15,7 +15,7 @@ Show us the eyes that speak to you, fascinate you or even scare you!
 URL for uploading entries: https://intranet.ncbs.res.in/photography
 
 ## Submission phase
-*Submission phase :9th to 22nd July
+*Submission phase :9th to 22nd July*
 
 *Voting phase        :  23rd July- 30th July*
 
