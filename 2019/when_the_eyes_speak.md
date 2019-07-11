@@ -20,7 +20,8 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 *Voting phase        :  23rd July- 30th July*
 
 *Results will be declared by the end of July*
-   *total number of entries: 
-   *Number of judges contacted :
-   *Number of judges submitted scores :
+   
+      *total number of entries: 
+      *Number of judges contacted :
+     *Number of judges submitted scores :
   
