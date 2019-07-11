@@ -24,4 +24,3 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
    *Number of judges contacted :
    *Number of judges submitted scores :
   
-* All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
