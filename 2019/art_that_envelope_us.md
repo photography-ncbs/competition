@@ -14,7 +14,7 @@ This time we want you to look around you, and observe things that have an artist
 
 *Voting phase        : 20th Aug - 23rd Aug*
 
-*Results will be declared by the end of July*
+*Results will be declared by the end of August*
    
       *total number of entries: 
       *Number of judges contacted :
