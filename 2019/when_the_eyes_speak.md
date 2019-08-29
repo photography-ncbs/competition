@@ -60,6 +60,5 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 |9	|Happiness :)|3	|3|	9|
 
 
-‘—’ stands for not shortlisted by the respective judge
 ** entry invalidated because of conflict of interest
   
