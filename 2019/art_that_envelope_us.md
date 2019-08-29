@@ -31,12 +31,11 @@ This time we want you to look around you, and observe things that have an artist
 |3.b	|The descent of man|	1	|5	|5	|11|
 |4	|Poem|	4|	1|	5|	10|
 |5	|Fractalss or fibonacci|	4|	3|	2|	9|
-|6	|Bubbles|	-|3	|5	|8|
-|7.a	|Dried Life|	3|	-|	3|	6|
-|7.b	|Cricle of life|	-|	2|	4|	6|
+|6	|Bubbles|	—|3	|5	|8|
+|7.a	|Dried Life|	3|	—|	3|	6|
+|7.b	|Cricle of life|	—|	2|	4|	6|
 
 ‘—’ stands for not shortlisted by the respective judge
-** entry invalidated because of conflict of interest
 
 ## Top entries in People's choice category
 
@@ -54,5 +53,3 @@ This time we want you to look around you, and observe things that have an artist
 |10	|Circle of Life|3.2	|13|	41.6|
 
 
-‘—’ stands for not shortlisted by the respective judge
-** entry invalidated because of conflict of interest
