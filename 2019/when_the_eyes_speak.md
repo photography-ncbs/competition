@@ -34,15 +34,14 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 |2.a	|veiled and elegant|3|	5	|5	|13|
 |2.b	|The jungle is always watching|3	|5	|5	|13|
 |3	|Why stop at two when you can have eight!|	4	|3	|5	|12|
-|4.a	|Selfeye|	5|	1|	-|	6|
-|4.b	|Plight|	5|	-|	1|	6|
-|4.c	|Diamonds|	-|2	|4	|6|
-|5.a	|A tiger in central India|	-|	4|	1|	5|
-|5.b	|Beauty is in the eye of the Beholder|	-|	4|	1|	5|
-|5.c	|Sunrise|	3|	-|	2|	5|
+|4.a	|Selfeye|	5|	1|	—|	6|
+|4.b	|Plight|	5|	—|	1|	6|
+|4.c	|Diamonds|	—|2	|4	|6|
+|5.a	|A tiger in central India|	—|	4|	1|	5|
+|5.b	|Beauty is in the eye of the Beholder|	—|	4|	1|	5|
+|5.c	|Sunrise|	3|	—|	2|	5|
 
 ‘—’ stands for not shortlisted by the respective judge
-** entry invalidated because of conflict of interest
 
 ## Top entries in People's choice category
 
@@ -60,5 +59,4 @@ URL for uploading entries: https://intranet.ncbs.res.in/photography
 |9	|Happiness :)|3	|3|	9|
 
 
-** entry invalidated because of conflict of interest
   
