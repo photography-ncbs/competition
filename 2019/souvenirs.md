@@ -19,7 +19,7 @@ We often would like to remember things, and you will have your own personalized 
 ## Top entries in Judges' choice category
 
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	|Judge 4| Total Score |
-|--|--|--|--|--|--|
+|--|--|--|--|--|--|--|
 |1.a	| Heart and the Sky|	5|	4	|	5|3|17|
 |1.b	|Souvenir of Passion|4|	4	|5	|4|17|
 |2	|Red-eyed serpent|3	|5	|3	|5|16|
