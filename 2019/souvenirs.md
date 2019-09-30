@@ -10,6 +10,8 @@ We often would like to remember things, and you will have your own personalized 
 *That carry the essence of local culture and carry the beauty of traditional crafts..*
 *— Souvenir.*
 
+*This time we want you to click those enchanted mementos and describe your thoughts about it. It can be a memorable photograph, can be something that you bought from there, or something that you just took with you for granted! (Or define your souvenir in your own way)*
+
 ## Submission phase
 *Submission phase :3rd Sep - 19th Sep*
 
