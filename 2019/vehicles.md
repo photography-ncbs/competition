@@ -16,11 +16,11 @@ Well, this time we want you to showcase your favorite mode of transportation- wh
 
 *Results will be announced by the end of October.*
 
-    *total number of entries: 38
-    *Number of judges contacted :4*
-    *Number of judges submitted scores :3*
+    total number of entries: 38
+    Number of judges contacted :4
+    Number of judges submitted scores :3
 
-    * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
+    All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
 
 ## Top entries in Judges' Choice category [JCC]
 
