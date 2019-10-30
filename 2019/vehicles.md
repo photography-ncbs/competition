@@ -11,14 +11,18 @@ Well, this time we want you to showcase your favorite mode of transportation- wh
 
 ## Submission phase
 *Uploading phase: 3rd to 18th October*
+
 *Voting Phase: 19th to 23rd October*
+
 *Results will be announced by the end of October.*
-*Number of judges contacted :4*
-*Number of judges submitted scores :3*
 
-* All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
+    *total number of entries: 38
+    *Number of judges contacted :4*
+    *Number of judges submitted scores :3*
 
-## Top entries in Judges' choice category
+    * All scores are normalized (see [scoring system](https://github.com/photography2018/competition/blob/master/scoring.md))
+
+## Top entries in Judges' Choice category [JCC]
 
 |Position	|Entry Name|	Judge 1	| Judge 2	| Judge 3	| Total Score |
 |--|--|--|--|--|--|
@@ -33,7 +37,7 @@ Well, this time we want you to showcase your favorite mode of transportation- wh
 ‘—’ stands for not shortlisted by the respective judge
 
 
-## Top entries in People's choice category
+## Top entries in People's Choice category [PCC]
 |Position	|Entry Name|	Average Vote|	Total Votes	|Total Score|
 |--|--|--|--|--|
 |1	|Chiku buku|3.8	|16|60.8|
