@@ -2,7 +2,7 @@
 This public repository will serve as an ``open database`` for ‘**Photography Competition**’ details and statistics. Purpose of this repository to have little transparency about photography competition, it’s rules and statistics. This will also track evolution of this little activity on the campus. Currently this will hold following details about photography competition.
 
 * [Rules and Regulations ](Rules.md)
-* [Statistics about competitions](https://github.com/photography-ncbs/competition/tree/master/2017) ( *Latest Competition* : [Portraits](https://github.com/photography-ncbs/competition/blob/master/2018/01_Portraits.md) )
+* [Statistics about competitions](https://github.com/photography2018/competition/tree/master/2019) ( *Ongoing Competition* : [Souvenirs](https://github.com/photography2018/competition/blob/master/2019/souvenirs.md))
 * [Process of entire competition](process.md)
 * [Scoring system](scoring.md)
 
